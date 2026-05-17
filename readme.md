@@ -9,6 +9,8 @@
 > - Simplified Chinese work branch: [`feature/chinese-i18n`](https://github.com/ParadoXaiClub/bruno-zh-cn/tree/feature/chinese-i18n)
 > - Pre-release builds: [Bruno 简体中文 2.0.0 (Unofficial)](https://github.com/ParadoXaiClub/bruno-zh-cn/releases/tag/v2.0.0-zh-cn.1)
 > - This fork is for localization preview and early use, and is not an official Bruno release.
+> - Unless explicitly stated otherwise, product links below point to Bruno's official project and website, not to this fork.
+> - Bug reports, release schedules, commercial offerings, and support policies remain subject to the upstream Bruno project.
 
 [![GitHub version](https://badge.fury.io/gh/usebruno%2Fbruno.svg)](https://badge.fury.io/gh/usebruno%2Fbruno)
 [![CI](https://github.com/usebruno/bruno/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/usebruno/bruno/actions/workflows/tests.yml)
@@ -46,7 +48,9 @@ You can use Git or any version control of your choice to collaborate over your A
 
 Bruno is offline-only. There are no plans to add cloud-sync to Bruno, ever. We value your data privacy and believe it should stay on your device. Read our long-term vision [here](https://github.com/usebruno/bruno/discussions/269)
 
-[Download Bruno](https://www.usebruno.com/downloads)
+[Official Bruno Downloads](https://www.usebruno.com/downloads)
+
+[Unofficial Simplified Chinese Fork Builds](https://github.com/ParadoXaiClub/bruno-zh-cn/releases/tag/v2.0.0-zh-cn.1)
 
 📢 Watch our recent talk at India FOSS 3.0 Conference [here](https://www.youtube.com/watch?v=7bSMFpbcPiY)
 
@@ -78,7 +82,9 @@ You can explore our [paid versions](https://www.usebruno.com/pricing) to see if 
 
 ## Installation
 
-Bruno is available as binary download [on our website](https://www.usebruno.com/downloads) for Mac, Windows and Linux.
+Official Bruno builds are available [on the upstream website](https://www.usebruno.com/downloads) for Mac, Windows and Linux.
+
+Builds for this unofficial Simplified Chinese fork are published separately on [GitHub Releases](https://github.com/ParadoXaiClub/bruno-zh-cn/releases/tag/v2.0.0-zh-cn.1).
 
 You can also install Bruno via package managers like Homebrew, Chocolatey, Scoop, Snap, Flatpak and Apt.
 
