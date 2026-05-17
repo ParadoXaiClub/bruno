@@ -3,6 +3,15 @@
 
 ### Bruno - 开源 IDE，用于探索和测试 API。
 
+> 这是 Bruno 的非官方简体中文 fork。
+>
+> - 原始项目： [usebruno/bruno](https://github.com/usebruno/bruno)
+> - 简体中文开发分支： [`feature/chinese-i18n`](https://github.com/ParadoXaiClub/bruno-zh-cn/tree/feature/chinese-i18n)
+> - 本 fork 的预发布构建： [Bruno 简体中文 2.0.0（非官方）](https://github.com/ParadoXaiClub/bruno-zh-cn/releases/tag/v2.0.0-zh-cn.1)
+> - 本 fork 仅用于汉化预览和提前体验，并非 Bruno 官方发行版本。
+> - 除非特别说明，下方产品链接默认指向 Bruno 官方项目和官网，而不是这个 fork。
+> - bug 反馈、发版节奏、商业版和支持策略以上游 Bruno 项目为准。
+
 [![GitHub version](https://badge.fury.io/gh/usebruno%2Fbruno.svg)](https://badge.fury.io/gh/usebruno%2Fbruno)
 [![CI](https://github.com/usebruno/bruno/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/usebruno/bruno/actions/workflows/tests.yml)
 [![Commit Activity](https://img.shields.io/github/commit-activity/m/usebruno/bruno)](https://github.com/usebruno/bruno/pulse)
@@ -35,9 +44,11 @@ Bruno 直接在您的电脑文件夹中存储您的 API 信息。我们使用纯
 
 您可以使用 Git 或您选择的任何版本控制系统来对您的 API 信息进行版本控制和协作。
 
-Bruno 仅限离线使用。我们计划永不向 Bruno 添加云同步功能。我们重视您的数据隐私，并认为它应该留在您的设备上。阅读我们的长期愿景 [点击查看](https://github.com/usebruno/bruno/discussions/269)
+Bruno 仅限离线使用。上游项目计划永不向 Bruno 添加云同步功能。官方团队重视您的数据隐私，并认为它应该留在您的设备上。阅读 Bruno 官方项目的长期愿景 [点击查看](https://github.com/usebruno/bruno/discussions/269)
 
-[下载 Bruno](https://www.usebruno.com/downloads)
+[官方 Bruno 下载](https://www.usebruno.com/downloads)
+
+[非官方简体中文 fork 构建下载](https://github.com/ParadoXaiClub/bruno-zh-cn/releases/tag/v2.0.0-zh-cn.1)
 
 📢 观看我们在印度 FOSS 3.0 会议上的最新演讲 [点击查看](https://www.youtube.com/watch?v=7bSMFpbcPiY)
 
@@ -48,7 +59,7 @@ Bruno 仅限离线使用。我们计划永不向 Bruno 添加云同步功能。�
 我们的大多数功能都是免费且开源的。
 我们致力于在 [开源与可持续性发展](https://github.com/usebruno/bruno/discussions/269) 之间取得和谐的平衡
 
-欢迎使用我们的 [付费版本](https://www.usebruno.com/pricing) ，看看附加的功能是否对您或团队有所帮助！ <br/>
+如需了解 Bruno 官方提供的 [付费版本](https://www.usebruno.com/pricing) ，可查看这些附加功能是否对您或团队有所帮助！ <br/>
 
 ## 目录
 - [安装](#安装)
@@ -67,7 +78,9 @@ Bruno 仅限离线使用。我们计划永不向 Bruno 添加云同步功能。�
 
 ## 安装
 
-Bruno 可以在我们的 [网站上下载](https://www.usebruno.com/downloads) 适用于Mac、Windows 和 Linux 的可执行文件。
+Bruno 官方构建可在[上游官网](https://www.usebruno.com/downloads)下载，适用于 Mac、Windows 和 Linux。
+
+这个非官方简体中文 fork 的构建单独发布在 [GitHub Releases](https://github.com/ParadoXaiClub/bruno-zh-cn/releases/tag/v2.0.0-zh-cn.1)。
 
 您也可以通过包管理器如 Homebrew、Chocolatey、Scoop、Snap 和 Apt 安装 Bruno。
 
@@ -117,7 +130,7 @@ sudo apt update && sudo apt install bruno
 
 ## 重要链接 📌
 
-- [我们的愿景](https://github.com/usebruno/bruno/discussions/269)
+- [Bruno 官方愿景](https://github.com/usebruno/bruno/discussions/269)
 - [路线图](https://www.usebruno.com/roadmap)
 - [文档](https://docs.usebruno.com)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/bruno)
@@ -133,7 +146,7 @@ sudo apt update && sudo apt install bruno
 
 ## 分享评价 📣
 
-如果 Bruno 在您的工作和团队中帮助了您，请不要忘记在我们的 GitHub 讨论上分享您的 [评价](https://github.com/usebruno/bruno/discussions/343)
+如果 Bruno 在您的工作和团队中帮助了您，请不要忘记在 Bruno 官方 GitHub 讨论上分享您的 [评价](https://github.com/usebruno/bruno/discussions/343)
 
 ## 发布到新的包管理器
 
